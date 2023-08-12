@@ -97,11 +97,7 @@ h2{
     margin: 1.5;
     transition:0.25px;
     cursor:pointer;
-    
-    
-    
 }
-
 
 .operator:hover{
     background: #00d9ff;
